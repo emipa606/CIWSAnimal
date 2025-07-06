@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>9a6e05ce-8da8-4e49-9da8-9fb0e59d9220</ID>
   <ModName>CIWS_Animal (Continued)</ModName>
-  <Version>1.5.0</Version>
+  <Version>1.6.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,3 +12,4 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: 大熊猫 -->
+  <CIWSDaXiongMao.label>大熊猫</CIWSDaXiongMao.label>
+  <!-- EN: 天下无敌萌的大熊猫，战斗力一点都不强。 -->
+  <CIWSDaXiongMao.description>天下无敌萌的大熊猫，战斗力一点都不强。</CIWSDaXiongMao.description>
+  <!-- EN: 大熊猫肉 -->
+  <CIWSDaXiongMao.race.meatLabel>大熊猫肉</CIWSDaXiongMao.race.meatLabel>
+  <!-- EN: left claw -->
+  <CIWSDaXiongMao.tools.left_claw.label>left claw</CIWSDaXiongMao.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <CIWSDaXiongMao.tools.right_claw.label>right claw</CIWSDaXiongMao.tools.right_claw.label>
+  <!-- EN: head -->
+  <CIWSDaXiongMao.tools.head.label>head</CIWSDaXiongMao.tools.head.label>
+  <!-- EN: 驮马 -->
+  <CIWSPackHorse.label>驮马</CIWSPackHorse.label>
+  <!-- EN: 专门用来驮东西的马。 -->
+  <CIWSPackHorse.description>专门用来驮东西的马。</CIWSPackHorse.description>
+  <!-- EN: horse meat -->
+  <CIWSPackHorse.race.meatLabel>horse meat</CIWSPackHorse.race.meatLabel>
+  <!-- EN: head -->
+  <CIWSPackHorse.tools.head.label>head</CIWSPackHorse.tools.head.label>
+  <!-- EN: left hoof -->
+  <CIWSPackHorse.tools.left_hoof.label>left hoof</CIWSPackHorse.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <CIWSPackHorse.tools.right_hoof.label>right hoof</CIWSPackHorse.tools.right_hoof.label>
+  <!-- EN: 老母鸡 -->
+  <GoldChicken.label>老母鸡</GoldChicken.label>
+  <!-- EN: 下金蛋的老母鸡，发家致富的来源。 -->
+  <GoldChicken.description>下金蛋的老母鸡，发家致富的来源。</GoldChicken.description>
+  <!-- EN: claws -->
+  <GoldChicken.tools.claws.label>claws</GoldChicken.tools.claws.label>
+  <!-- EN: head -->
+  <GoldChicken.tools.head.label>head</GoldChicken.tools.head.label>
+  <!-- EN: 战熊 -->
+  <ZhanXiong.label>战熊</ZhanXiong.label>
+  <!-- EN: 天下无敌的战熊，战斗力一点都不强。 -->
+  <ZhanXiong.description>天下无敌的战熊，战斗力一点都不强。</ZhanXiong.description>
+  <!-- EN: 战熊肉 -->
+  <ZhanXiong.race.meatLabel>战熊肉</ZhanXiong.race.meatLabel>
+  <!-- EN: left claw -->
+  <ZhanXiong.tools.left_claw.label>left claw</ZhanXiong.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <ZhanXiong.tools.right_claw.label>right claw</ZhanXiong.tools.right_claw.label>
+  <!-- EN: head -->
+  <ZhanXiong.tools.head.label>head</ZhanXiong.tools.head.label>
+</LanguageData>

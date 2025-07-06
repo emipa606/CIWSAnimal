@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3691205191
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35ff351b3fd6045e97d8b49967ba4e40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 35ff351b3fd6045e97d8b49967ba4e40
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.CIWSAnimal/Textures/Things/Pawn/Animal/Bear/CIWSDaXiongMaoPack_south.png
+- Assets/Data/Mlie.CIWSAnimal/Textures/Things/Pawn/Animal/Bear/ZhanXiongPack_east.png
+- Assets/Data/Mlie.CIWSAnimal/Textures/Things/Pawn/Animal/Bear/ZhanXiong_north.png
+- Assets/Data/Mlie.CIWSAnimal/Textures/Things/Pawn/Animal/Bear/CIWSDaXiongMao_south.png
+- Assets/Data/Mlie.CIWSAnimal/Textures/Things/Pawn/Animal/Bear/ZhanXiongPack_north.png
+- Assets/Data/Mlie.CIWSAnimal/Textures/Things/Pawn/Animal/Bear/CIWSDaXiongMaoPack_east.png
+- Assets/Data/Mlie.CIWSAnimal/Textures/Things/Pawn/Animal/Bear/CIWSDaXiongMao_north.png
+- Assets/Data/Mlie.CIWSAnimal/Textures/Things/Pawn/Animal/Bear/ZhanXiongPack_south.png
+- Assets/Data/Mlie.CIWSAnimal/Textures/Things/Pawn/Animal/Bear/ZhanXiong_east.png
+- Assets/Data/Mlie.CIWSAnimal/Textures/Things/Pawn/Animal/Bear/CIWSDaXiongMao_east.png
+- Assets/Data/Mlie.CIWSAnimal/Textures/Things/Pawn/Animal/Bear/ZhanXiong_south.png
+- Assets/Data/Mlie.CIWSAnimal/Textures/Things/Pawn/Animal/Bear/CIWSDaXiongMaoPack_north.png
+Dependencies: []

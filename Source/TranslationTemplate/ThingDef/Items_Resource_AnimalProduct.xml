@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: 金蛋 -->
+  <EggJinChickenFertilized.label>金蛋</EggJinChickenFertilized.label>
+  <!-- EN: 金色的鸡蛋。 -->
+  <EggJinChickenFertilized.description>金色的鸡蛋。</EggJinChickenFertilized.description>
+  <!-- EN: 银蛋 -->
+  <EggYinChickenFertilized.label>银蛋</EggYinChickenFertilized.label>
+  <!-- EN: 银色的鸡蛋。 -->
+  <EggYinChickenFertilized.description>银色的鸡蛋。</EggYinChickenFertilized.description>
+</LanguageData>

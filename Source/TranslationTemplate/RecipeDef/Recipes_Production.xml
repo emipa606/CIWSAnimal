@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: 处理金蛋 -->
+  <MakeGoldEgg.label>处理金蛋</MakeGoldEgg.label>
+  <!-- EN: 处理金蛋。 -->
+  <MakeGoldEgg.description>处理金蛋。</MakeGoldEgg.description>
+  <!-- EN: 正在处理金蛋。 -->
+  <MakeGoldEgg.jobString>正在处理金蛋。</MakeGoldEgg.jobString>
+  <!-- EN: 处理银蛋 -->
+  <MakeSilverEgg.label>处理银蛋</MakeSilverEgg.label>
+  <!-- EN: 处理银蛋。 -->
+  <MakeSilverEgg.description>处理银蛋。</MakeSilverEgg.description>
+  <!-- EN: 正在处理银蛋。 -->
+  <MakeSilverEgg.jobString>正在处理银蛋。</MakeSilverEgg.jobString>
+</LanguageData>

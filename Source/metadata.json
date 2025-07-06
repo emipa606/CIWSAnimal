@@ -2,5 +2,14 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "Patches": false,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 32398,
+  "CodeBaseSize": 71,
+  "LastXmlCleaning": "2025-07-06T19:36:56.661852+02:00",
+  "SocialImageSet": true,
+  "SearchTags": " military animals"
 }

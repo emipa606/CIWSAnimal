@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EggJinChickenFertilized</defName>
+    <label>金蛋</label>
+    <description>金色的鸡蛋。</description>
+    <graphicData>
+      <color>(1.0,0.8,0.1)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>12.0</MarketValue>
+      <Mass>0.05</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EggYinChickenFertilized</defName>
+    <label>银蛋</label>
+    <description>银色的鸡蛋。</description>
+    <graphicData>
+      <color>(0.7,0.7,0.7)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.8</MarketValue>
+      <Mass>0.012</Mass>
+    </statBases>
+  </ThingDef>
+</Defs>

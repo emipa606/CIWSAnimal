@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: 大熊猫 -->
+  <CIWSDaXiongMao.label>大熊猫</CIWSDaXiongMao.label>
+  <CIWSDaXiongMao.labelFemale />
+  <CIWSDaXiongMao.labelFemalePlural />
+  <CIWSDaXiongMao.labelMale />
+  <CIWSDaXiongMao.labelMalePlural />
+  <CIWSDaXiongMao.labelPlural />
+  <!-- EN: 大熊猫幼崽 -->
+  <CIWSDaXiongMao.lifeStages.0.label>大熊猫幼崽</CIWSDaXiongMao.lifeStages.0.label>
+  <CIWSDaXiongMao.lifeStages.0.labelFemale />
+  <CIWSDaXiongMao.lifeStages.0.labelFemalePlural />
+  <CIWSDaXiongMao.lifeStages.0.labelMale />
+  <CIWSDaXiongMao.lifeStages.0.labelMalePlural />
+  <CIWSDaXiongMao.lifeStages.0.labelPlural />
+  <CIWSDaXiongMao.lifeStages.1.label />
+  <CIWSDaXiongMao.lifeStages.1.labelFemale />
+  <CIWSDaXiongMao.lifeStages.1.labelFemalePlural />
+  <CIWSDaXiongMao.lifeStages.1.labelMale />
+  <CIWSDaXiongMao.lifeStages.1.labelMalePlural />
+  <CIWSDaXiongMao.lifeStages.1.labelPlural />
+  <CIWSDaXiongMao.lifeStages.2.label />
+  <CIWSDaXiongMao.lifeStages.2.labelFemale />
+  <CIWSDaXiongMao.lifeStages.2.labelFemalePlural />
+  <CIWSDaXiongMao.lifeStages.2.labelMale />
+  <CIWSDaXiongMao.lifeStages.2.labelMalePlural />
+  <CIWSDaXiongMao.lifeStages.2.labelPlural />
+  <!-- EN: PackHorse -->
+  <CIWSPackHorse.label>PackHorse</CIWSPackHorse.label>
+  <!-- EN: 驮马 -->
+  <CIWSPackHorse.labelFemale>驮马</CIWSPackHorse.labelFemale>
+  <!-- EN: 驮马 -->
+  <CIWSPackHorse.labelMale>驮马</CIWSPackHorse.labelMale>
+  <!-- EN: foal -->
+  <CIWSPackHorse.lifeStages.foal.label>foal</CIWSPackHorse.lifeStages.foal.label>
+  <!-- EN: 老母鸡 -->
+  <GoldChicken.label>老母鸡</GoldChicken.label>
+  <!-- EN: 老母鸡 -->
+  <GoldChicken.labelFemale>老母鸡</GoldChicken.labelFemale>
+  <GoldChicken.labelFemalePlural />
+  <!-- EN: 老公鸡 -->
+  <GoldChicken.labelMale>老公鸡</GoldChicken.labelMale>
+  <GoldChicken.labelMalePlural />
+  <GoldChicken.labelPlural />
+  <!-- EN: 小母鸡 -->
+  <GoldChicken.lifeStages.0.label>小母鸡</GoldChicken.lifeStages.0.label>
+  <GoldChicken.lifeStages.0.labelFemale />
+  <GoldChicken.lifeStages.0.labelFemalePlural />
+  <GoldChicken.lifeStages.0.labelMale />
+  <GoldChicken.lifeStages.0.labelMalePlural />
+  <GoldChicken.lifeStages.0.labelPlural />
+  <GoldChicken.lifeStages.1.label />
+  <GoldChicken.lifeStages.1.labelFemale />
+  <GoldChicken.lifeStages.1.labelFemalePlural />
+  <!-- EN: 小公鸡 -->
+  <GoldChicken.lifeStages.1.labelMale>小公鸡</GoldChicken.lifeStages.1.labelMale>
+  <GoldChicken.lifeStages.1.labelMalePlural />
+  <GoldChicken.lifeStages.1.labelPlural />
+  <GoldChicken.lifeStages.2.label />
+  <GoldChicken.lifeStages.2.labelFemale />
+  <GoldChicken.lifeStages.2.labelFemalePlural />
+  <GoldChicken.lifeStages.2.labelMale />
+  <GoldChicken.lifeStages.2.labelMalePlural />
+  <GoldChicken.lifeStages.2.labelPlural />
+  <!-- EN: 战熊 -->
+  <ZhanXiong.label>战熊</ZhanXiong.label>
+  <ZhanXiong.labelFemale />
+  <ZhanXiong.labelFemalePlural />
+  <ZhanXiong.labelMale />
+  <ZhanXiong.labelMalePlural />
+  <ZhanXiong.labelPlural />
+  <!-- EN: 战熊幼崽 -->
+  <ZhanXiong.lifeStages.0.label>战熊幼崽</ZhanXiong.lifeStages.0.label>
+  <ZhanXiong.lifeStages.0.labelFemale />
+  <ZhanXiong.lifeStages.0.labelFemalePlural />
+  <ZhanXiong.lifeStages.0.labelMale />
+  <ZhanXiong.lifeStages.0.labelMalePlural />
+  <ZhanXiong.lifeStages.0.labelPlural />
+  <ZhanXiong.lifeStages.1.label />
+  <ZhanXiong.lifeStages.1.labelFemale />
+  <ZhanXiong.lifeStages.1.labelFemalePlural />
+  <ZhanXiong.lifeStages.1.labelMale />
+  <ZhanXiong.lifeStages.1.labelMalePlural />
+  <ZhanXiong.lifeStages.1.labelPlural />
+  <ZhanXiong.lifeStages.2.label />
+  <ZhanXiong.lifeStages.2.labelFemale />
+  <ZhanXiong.lifeStages.2.labelFemalePlural />
+  <ZhanXiong.lifeStages.2.labelMale />
+  <ZhanXiong.lifeStages.2.labelMalePlural />
+  <ZhanXiong.lifeStages.2.labelPlural />
+</LanguageData>
